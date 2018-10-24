@@ -1,24 +1,9 @@
-# README
+# THE MOOCADEMY
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Project Week 4, Day 3
 
-Things you may want to cover:
+Les auteurs du projet >>> @Joelthp, @Emilie5520, @Elmousski @MattMonta and @CharlotteHouivet.
 
-* Ruby version
+### Enoncé
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Tu dois créer une plateforme d'apprentissage en ligne. Il y a plein de cours. Chaque cours a un titre et une description. Enfin, chaque cours a plusieurs leçons, qui ont un titre et un body.
